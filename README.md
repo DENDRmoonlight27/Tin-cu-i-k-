@@ -113,13 +113,13 @@
             <ul>
                 <li>
                     <a href="pho-hanoi.html">
-                        <img src="https://cdn-i.vtcnews.vn/resize/th/upload/2023/04/21/7-quan-pho-ngon-nuc-tieng-duoc-long-nguoi-sanh-an-trong-khu-pho-co-ha-noi-1-1632824891-23553249.jpg" alt="Phở Hà Nội">
+                        <center><img src="https://cdn-i.vtcnews.vn/resize/th/upload/2023/04/21/7-quan-pho-ngon-nuc-tieng-duoc-long-nguoi-sanh-an-trong-khu-pho-co-ha-noi-1-1632824891-23553249.jpg" alt="Phở Hà Nội"></center>
                         <p>Phở Hà Nội</p>
                     </a>
                 </li>
                 <li>
                     <a href="banh-da-cua-haiphong.html">
-                        <img src="https://bepxua.vn/wp-content/uploads/2021/05/banh-da-cua-hai-phong.jpg" alt="Bánh đa cua Hải Phòng">
+                        <center><img src="https://bepxua.vn/wp-content/uploads/2021/05/banh-da-cua-hai-phong.jpg" alt="Bánh đa cua Hải Phòng"><center>
                         <p>Bánh đa cua Hải Phòng</p>
                     </a>
                 </li>
@@ -131,13 +131,13 @@
             <ul>
                 <li>
                     <a href="bun-bo-hue.html">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_zrsVZcHCfK-3_n78Z7BGR2EPVgklxQrIw&s" alt="Bún bò Huế">
+                        <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_zrsVZcHCfK-3_n78Z7BGR2EPVgklxQrIw&s" alt="Bún bò Huế"></center>
                         <p>Bún bò Huế</p>
                     </a>
                 </li>
                 <li>
                     <a href="cao-lau-hoi-an.html">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/BANH_DA_CUA_1.jpg/640px-BANH_DA_CUA_1.jpg" alt="Cao lầu Hội An">
+                        <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/BANH_DA_CUA_1.jpg/640px-BANH_DA_CUA_1.jpg" alt="Cao lầu Hội An"></center>
                         <p>Cao lầu Hội An</p>
                     </a>
                 </li>
