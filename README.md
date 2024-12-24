@@ -1,5 +1,3 @@
-# Tin-cu-i-k-
-<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -119,7 +117,7 @@
                 </li>
                 <li>
                     <a href="banh-da-cua-haiphong.html">
-                        <center><img src="https://bepxua.vn/wp-content/uploads/2021/05/banh-da-cua-hai-phong.jpg" alt="Bánh đa cua Hải Phòng"><center>
+                        <center><img src="https://bepxua.vn/wp-content/uploads/2021/05/banh-da-cua-hai-phong.jpg" alt="Bánh đa cua Hải Phòng"></center>
                         <p>Bánh đa cua Hải Phòng</p>
                     </a>
                 </li>
@@ -131,13 +129,13 @@
             <ul>
                 <li>
                     <a href="bun-bo-hue.html">
-                        <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_zrsVZcHCfK-3_n78Z7BGR2EPVgklxQrIw&s" alt="Bún bò Huế"></center>
+                        <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS_zrsVZcHCfK-3_n78Z7BGR2EPVgklxQrIw&s" alt="Bún bò Huế"><center>
                         <p>Bún bò Huế</p>
                     </a>
                 </li>
                 <li>
                     <a href="cao-lau-hoi-an.html">
-                        <center><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/BANH_DA_CUA_1.jpg/640px-BANH_DA_CUA_1.jpg" alt="Cao lầu Hội An"></center>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/BANH_DA_CUA_1.jpg/640px-BANH_DA_CUA_1.jpg" alt="Cao lầu Hội An">
                         <p>Cao lầu Hội An</p>
                     </a>
                 </li>
@@ -149,13 +147,13 @@
             <ul>
                 <li>
                     <a href="pha-lau.html">
-                        <img src="https://cdn-media.sforum.vn/storage/app/media/wp-content/uploads/2023/12/cach-lam-pha-lau-thumbnail.jpg" alt="Phá lấu">
+                        <center><img src="https://cdn-media.sforum.vn/storage/app/media/wp-content/uploads/2023/12/cach-lam-pha-lau-thumbnail.jpg" alt="Phá lấu"></center>
                         <p>Phá lấu</p>
                     </a>
                 </li>
                 <li>
                     <a href="com-tam.html">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYn4DxXBYgCK2gw3udITmaTchjtRcVil1_og&s" alt="Cơm tấm">
+                        <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYn4DxXBYgCK2gw3udITmaTchjtRcVil1_og&s" alt="Cơm tấm"></center>
                         <p>Cơm tấm</p>
                     </a>
                 </li>
@@ -167,13 +165,13 @@
             <ul>
                 <li>
                     <a href="banh-pia-soc-trang.html">
-                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7Mcl59a78Va2H16X8JsrQ1tn2H4-KS6QLg&s" alt="Bánh pía Sóc Trăng">
+                        <center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy7Mcl59a78Va2H16X8JsrQ1tn2H4-KS6QLg&s" alt="Bánh pía Sóc Trăng"></center>
                         <p>Bánh pía Sóc Trăng</p>
                     </a>
                 </li>
                 <li>
                     <a href="hu-tieu-my-tho.html">
-                        <img src="https://vcdn1-dulich.vnecdn.net/2016/05/23/1-6532-1464000261.jpg?w=460&h=0&q=100&dpr=2&fit=crop&s=gGqpETsMrmYH70sbgx-I0Q" alt="Hủ tiếu Mỹ Tho">
+                        <center><img src="https://vcdn1-dulich.vnecdn.net/2016/05/23/1-6532-1464000261.jpg?w=460&h=0&q=100&dpr=2&fit=crop&s=gGqpETsMrmYH70sbgx-I0Q" alt="Hủ tiếu Mỹ Tho"></center>
                         <p>Hủ tiếu Mỹ Tho</p>
                     </a>
                 </li>
